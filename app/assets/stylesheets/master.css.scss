@@ -13,6 +13,12 @@ body {
   -webkit-box-shadow: 1px 1px 2px 0 #d0d0d0;
   background: url('/assets/pattern-nav.png');
   border-radius: 0;
+
+  .navbar-brand {
+    color: #E3E85A;
+    font-family: 'source_sans_proregular', sans-serif;
+    font-size: 26px;
+  }
 }
 
 .booyah-box {
