@@ -62,3 +62,14 @@ blockquote:before {
 blockquote p {
   display: inline;
 }
+
+img {
+  display: block;
+  max-width: 100%;
+} 
+
+
+.photos {
+  padding-left: 0;
+  list-style: none;
+}
