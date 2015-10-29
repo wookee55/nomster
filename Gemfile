@@ -52,3 +52,4 @@ gem 'devise' # user auth
 gem 'geocoder' 
 gem 'figaro', '>= 1.0.0' #app config
 gem 'carrierwave' #file upload
+gem 'fog', '~> 1.3.1' #cloud services library
